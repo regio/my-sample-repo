@@ -7,7 +7,7 @@ package mysample;
 
 /**
  *
- * @author regio michelin b
+ * @author regio michelin ab
  */
 public class MySample {
 
